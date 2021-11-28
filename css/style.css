@@ -54,6 +54,12 @@ button {
     text-align: center;
     }
 
+#login-form input {
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    }
+
 #clock {
     font-size: 30px;
     margin-bottom: -5px;
